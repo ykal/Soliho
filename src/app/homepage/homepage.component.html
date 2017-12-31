@@ -1,0 +1,91 @@
+<section id="main-slider" class="no-margin">
+  <div class="carousel slide">
+    <div class="carousel-inner">
+      <div class="item active" style="background-image: url(../assets/images/slider/bg1.png)">
+        <div class="container">
+          <div class="row slide-margin">
+            <div class="col-sm-6">
+              <div class="carousel-content">
+                <h2 class="animation animated-item-1">SOLIHO <br> <span><blockquote>{{ 'NAV.MOTO' | translate }}</blockquote></span></h2>
+                <p class="animation animated-item-2"> {{ 'VISION' | translate }} </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div><!--/.item-->
+    </div><!--/.carousel-inner-->
+  </div><!--/.carousel-->
+</section><!--/#main-slider-->
+
+<app-slider></app-slider>
+
+<div class="about" id="about">
+  <div class="container">
+    <!--      <div class="col-sm-12">
+            <h2 class="text-center">About us</h2>
+          </div> -->
+    <div class="col-md-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms" >
+
+      <img src="../assets/images/6.png" class="img-responsive"/>
+    </div>
+
+    <div class="col-md-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms" >
+      <p> {{ 'MISSION.ONE' | translate }} </p>
+      <p> {{ 'MISSION.TWO' | translate }} </p>
+      <p> {{ 'MISSION.THREE' | translate }} </p>
+    </div>
+  </div>
+</div>
+
+<section id="partner">
+  <div class="container">
+    <div class="center wow fadeInDown">
+      <h2>{{'JOB-TITLE' | translate}}</h2>
+    </div>
+
+    <div class="partners">
+      <ul>
+        <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="1500ms" src="../assets/images/partners/partner9.png"></a></li>
+      </ul>
+    </div>
+    <div class="center wow fadeInDown">
+      <p style=" font-family: sans-serif; color: #e3e3e3;line-height: 130%;"><b>Liévin FELIHO...</b> {{'BIO' | translate}}</p>
+    </div>
+  </div><!--/.container-->
+</section>
+
+<section id="conatcat-info">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-6">
+        <div class="media contact-info wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+          <div class="pull-left">
+            <i class="fa fa-phone"></i>
+          </div>
+          <div class="media-body">
+            <h3>Have a question or need to contact us.</h3>
+            <h5>Email: lievin.feliho@soliho.com</h5>
+            <h5>Address: 68,rue Sebastien Mercier F-75015 Paris.</h5>
+
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6">
+        <div>
+          <form action="">
+            <div class="form-group">
+              <input type="name" placeholder="Name" class="form-control" id="name">
+            </div>
+            <div class="form-group">
+              <input type="email" placeholder="Email" class="form-control" id="name">
+            </div>
+            <div class="form-group">
+              <textarea placeholder="Content" class="form-control" rows="3" id="content"></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Send</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div><!--/.container-->
+</section><!--/#conatcat-info-->
