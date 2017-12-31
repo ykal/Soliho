@@ -1,6 +1,61 @@
 {
-  "HOME": {
-    "TITLE": "Bonjour Angular avec ngx-translate !",
-    "SELECT": "Changer la langue"
-  }
+  "NAV": {
+    "HOME": "MAISON",
+    "CONTACT": "CONTACT",
+    "ABOUT": "SUR",
+    "SERVICES": "SERVICES",
+    "MOTO": "La voie du futur"
+  },
+  "VISION" : "Une conception responsable et humaniste du développement en Afrique basée sur les solutions des africains",
+  "MISSION": {
+    "ONE": "Contribuer au développement de l’Afrique en faisant connaitre les choix des africains et en favorisant les échanges mutuels entre ce continent et le monde. Par son activité, SOLIHO aide les décideurs publics comme les acteurs économiques à effectuer des choix stratégiques en disposant d’informations utiles et cruciales.",
+    "TWO": "Au-delà des décisions, SOLIHO contribue à travers la recherche de financement à la réalisation des choix opérés tant par les acteurs publics que par les entrepreneurs ou les investisseurs.",
+    "THREE": "Mobiliser les diasporas africaines et faire connaitre les priorités des états africains et/ou des institutions africaines constituent des défis que SOLIHO a choisi de relever parce que nous croyons possible que « l’Afrique aide l’Afrique »."
+  },
+  "SERVICES": {
+    "CONSULTING": {
+      "TITLE": "Conseil",
+      "ONE": "L’activité de conseil consiste à apporter à des décideurs des informations et des analyses issues de la compétence et des expériences de nos experts de haut niveau dans toutes les régions d’Afrique et dans le monde. Ces analyses procèdent à la fois d’une vision stratégique englobant les considérations politiques, économiques, sociales, culturelles et géographiques.",
+      "TWO": "Pour autant, peuvent être communiquées concernant les différents secteurs économiques et financiers, des informations précises telles que :",
+      "LISTS" : {
+        "ONE": "l’identification des acteurs clefs",
+        "TWO": "le repérage des opportunités d’affaires",
+        "THREE": "pour les non africains en Afrique",
+        "FOUR": "pour les africains dans le monde"
+      }
+    },
+    "PUBLIC-POLICIES": {
+      "TITLE": "Public Policies",
+      "ONE": "Pour aider les décideurs publics à mieux concevoir ou évaluer les politiques publiques, SOLIHO propose de mettre à profit la maitrise par ses experts des environnements publics comme privés pour offrir un regard pertinent sur les sujets de développement qui concernent l’Afrique.",
+      "TWO": "En pratique, SOLIHO dispose d’un réseau d’experts particulièrement dense qui permet de conduire des études et produire des rapports sur un spectre de thématiques et d’activités considérablement varié.",
+      "THREE": "Les secteurs et thématiques prioritaires sont les suivants :",
+      "LISTS": {
+        "ONE": "Santé/protection sociale",
+        "TWO": "Recherche/ nouvelles technologies",
+        "THREE": "Agriculture/tourisme",
+        "FOUR": "Économie bleue (pèche, transports maritimes …)",
+        "FIVE": "Économie verte",
+        "SIX": "Infrastructures/énergie"
+      }
+    },
+    "FINANCING": {
+      "TITLE": "Financement",
+      "ONE": "Pour SOLIHO, la recherche de financement consiste à faciliter la possibilité pour des acteurs publics (États, collectivités locales), des institutions régionales ou des acteurs privés d’accéder à des sources de financements.",
+      "TWO": "En pratique, le rôle de SOLIHO consiste à :",
+      "LISTS": {
+        "ONE": "Rationaliser des besoins de financement",
+        "TWO": "Mobiliser les investisseurs",
+        "THREE": "Accompagner les emprunteurs potentiels jusqu’à la levée de fonds effective"
+      }
+    },
+    "DIASPORAS": {
+      "TITLE": "Diasporas et Agenda 2063",
+      "ONE": "a diaspora constitue selon l’acte constitutif de l’Union Africaine la sixième région du continent. Ce faisant, elle doit prendre sa part en termes d’efforts et de contribution financière et intellectuelle pour faire face aux défis auxquels­ l’Afrique est confrontée. SOLIHO contribue à diffuser des informations économiques et financières relatives aux activités des diasporas africaines.",
+      "TWO": "L’Agenda 2063 constitue le cadre stratégique dont l’Afrique s’est dotée pour les prochaines décennies. Contribuer à faire connaitre ce cadre d’action en menant des actions à l’endroit de la diaspora et des amis de l’Afrique constitue une priorité. SOLIHO contribue à faire connaitre le contenu de ce calendrier."
+    }
+  },
+  "BIO": "Spécialiste des politiques publiques (conception, conduite et évaluation) et juriste de formation, Liévin FELIHO peut revendiquer une parfaite maîtrise du droit administratif, du droit social et des procédures contentieuses. Au-delà de sa solide expérience juridique, il dispose en outre d’une expertise en matière en matière de protection sociale et spécifiquement en matière budgétaire (exercice de 2011 à 2016 de la tutelle du ministère de la santé français sur les caisses de sécurité sociale de certains régimes spéciaux gérant au total plus de 4 milliards d’euros). Comme Commissaire du Gouvernement ou comme représentant de l’État au sein de plusieurs conseils d’administration en France, M. FELIHO a une connaissance du fonctionnement de l’État et de la défense des intérêts publics. Son expertise concernant les enjeux relatifs au développement international lui confèrent une aptitude à embrasser les questions relatives à la gestion du capital humain et aux grands défis auxquels l’Afrique fait face.",
+  "JOB-TITLE": "PDG de SOLIHO Public Affairs"
 }
+
+

@@ -1,6 +1,59 @@
 {
-  "HOME": {
-    "TITLE": "Hello Angular with ngx-translate!",
-    "SELECT": "Change language"
-  }
+  "NAV": {
+    "HOME": "HOME",
+    "CONTACT": "CONTACT",
+    "ABOUT": "ABOUT US",
+    "SERVICES": "SERVICES",
+    "MOTO": "The way of the Future"
+  },
+  "VISION" : "A responsible and humanistic conception of development in Africa based on African solutions",
+  "MISSION": {
+    "ONE": "Contribute to the development of Africa by making known the choices of Africans and by promoting mutual exchanges between this continent and the world. Through its activity, SOLIHO helps decision-makers as well as economic actors make strategic choices by having useful and crucial information.",
+    "TWO": "Beyond the decisions, SOLIHO contributes through the search for financing to the realization of the choices made by the public actors as well as by the entrepreneurs or the investors.",
+    "THREE": "Mobilizing African diasporas and publicizing the priorities of African states and / or African institutions are challenges that SOLIHO has chosen to address because we believe that \"Africa can help Africa\"."
+  },
+  "SERVICES": {
+    "CONSULTING": {
+      "TITLE": "Consulting",
+      "ONE": "The consulting activity consists of providing decision-makers with information and analysis based on the expertise and experience of our high-level experts in all regions of Africa and around the world. These analyzes come from a strategic vision encompassing political, economic, social, cultural and geographical considerations.",
+      "TWO": "However, it can be communicated concerning different economic and financial sectors, specific information such as:",
+      "LISTS" : {
+        "ONE": "Identification of Key Actors",
+        "TWO": "Identification of Business Opportunities",
+        "THREE": "For non-Africans in Africa",
+        "FOUR": "For Africans Around The World"
+      }
+    },
+    "PUBLIC-POLICIES": {
+      "TITLE": "Public Policies",
+      "ONE": "To help public policymakers better design or evaluate public policies, SOLIHO proposes to use the expertise of its experts in public and private environments to offer a relevant perspective on development issues that concern Africa.",
+      "TWO": "In practice, SOLIHO has a particularly dense network of experts that makes it possible to conduct studies and produce reports on a broad spectrum of themes and activities.",
+      "THREE": "The priority sectors and themes are:",
+      "LISTS": {
+        "ONE": "Health / Social Protection",
+        "TWO": "Research / New Technologies",
+        "THREE": "Agriculture / Tourism",
+        "FOUR": "Blue Economy (fishing, maritime transport ...)",
+        "FIVE": "Green economy",
+        "SIX": "Infrastructure / Energy"
+      }
+    },
+    "FINANCING": {
+      "TITLE": "Financing",
+      "ONE": "For SOLIHO, the search for funding consists of facilitating the possibility for public actors (States, local communities), regional institutions or private actors to access sources of funding.",
+      "TWO": "In practice, the role of SOLIHO consists of :",
+      "LISTS": {
+        "ONE": "Streamline Financing Needs",
+        "TWO": "Mobilize Investors",
+        "THREE": "Accompany Potential Borrowers Until Effective Fundraising"
+      }
+    },
+    "DIASPORAS": {
+      "TITLE": "Diasporas and Agenda 2063",
+      "ONE": "According to the Constitutive Act of the African Union, the diaspora is the sixth region of the continent. In doing so, it must do its part in terms of efforts and financial and intellectual contribution to face the challenges facing Africa. SOLIHO helps to disseminate economic and financial information about the activities of African diasporas.",
+      "TWO": "Agenda 2063 is the strategic framework that Africa has for the next decades. Contributing to publicizing this framework of action by taking action towards the diaspora and friends of Africa is a priority. SOLIHO helps to make known the contents of this calendar."
+    }
+  },
+  "BIO": "Public policy specialist (design, conduct and evaluation) and legal counsel by training, Liévin FELIHO holds a master in law and political science. He can claim a perfect mastery of administrative law, social law and litigation procedures. In addition to his solid legal experience, he also has expertise in the field of social protection and specifically in budgetary matters (exercise from 2011 to 2016 of the supervision of the French Ministry of Health on social security funds special schemes totaling more than 4 billion euros). As Government Commissioner or as representative of the State on several boards of directors in France, Mr. FELIHO has knowledge of the functioning of the State and the defense of public interests. His expertise in international development issues gives him an ability to embrace the issues of human capital management and the major challenges facing Africa.",
+  "JOB-TITLE": "CEO of SOLIHO Public Affairs"
 }
