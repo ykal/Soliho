@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Dependency
 
-Set up the backend [Soliho-backend](https://karma-runner.github.io).
+Set up the backend [Soliho-backend](https://github.com/ykal/Soliho-backend.git).
 
 ## Development server
 
