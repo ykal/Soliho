@@ -71,18 +71,19 @@
         </div>
       </div>
       <div class="col-sm-6">
-        <div>
-          <form action="">
+        <div style="position: relative;">
+          <ngx-loading [show]="loading" [config]="{ backdropBorderRadius: '8px', backdropBackgroundColour: 'rgba(245, 214, 217, 0.3)' }"></ngx-loading>
+          <form [formGroup]="contactUsForm" (ngSubmit)="sendEmail()">
             <div class="form-group">
-              <input type="name" placeholder="Name" class="form-control" id="name">
+              <input type="text" formControlName="name" [(ngModel)]="mailingOption.name" placeholder="Name" class="form-control" id="name">
             </div>
             <div class="form-group">
-              <input type="email" placeholder="Email" class="form-control" id="name">
+              <input type="email" formControlName="email" [(ngModel)]="mailingOption.email" placeholder="Email" class="form-control" id="email" required>
             </div>
             <div class="form-group">
-              <textarea placeholder="Content" class="form-control" rows="3" id="content"></textarea>
+              <textarea formControlName="content" [(ngModel)]="mailingOption.content" placeholder="Content" class="form-control" rows="3" id="content"></textarea>
             </div>
-            <button type="submit" class="btn btn-primary">Send</button>
+            <button type="submit" [disabled]="!contactUsForm.valid" class="btn btn-primary">Send</button>
           </form>
         </div>
       </div>
